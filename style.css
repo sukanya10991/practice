@@ -1,0 +1,38 @@
+body {
+  background-image: url("background1.jpg");
+  
+  color: white;
+}
+
+.heading {
+  width: 100%;
+
+}
+
+p{
+  border-style:solid;
+  border-color:white;
+  border-width: 3px;
+  border-radius: 20px;  
+  font-size: 30px !important;
+  padding: 7px;
+  width:70%;
+}
+#h1{
+  border-style:solid;
+  border-color:white;
+  border-width: 3px;
+  border-radius: 20px;
+  padding: 7px;
+  width:70% !important;
+}
+canvas{
+  border-style:solid;
+  border-color:white;
+  border-width: 3px;
+  border-radius: 20px;
+  padding: 7px;
+  width:30% !important;
+  margin-top: 200px !important;
+  
+}
